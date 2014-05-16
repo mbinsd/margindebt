@@ -1,0 +1,17 @@
+{
+    "contents" : "margindata <- read.csv(\"margindata.csv\")\ndim(margindata)\nmargindata\n\nx = rnorm(10)\ny = runif(10)\ndf = matrix(x,y)\nx\n",
+    "created" : 1400263512967.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3296419108",
+    "id" : "BD6857AE",
+    "lastKnownWriteTime" : 27866499440705583,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
